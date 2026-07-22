@@ -1,6 +1,6 @@
 # 2B Manifest Downloader
 
-**2B Manifest Downloader** is a lightweight, open-source utility for retrieving and managing manifest information from supported sources. It provides a clean, intuitive interface for working with manifest data, making it easier to access, organize, and inspect manifests for development, research, and other legitimate purposes.
+**2B Manifest Downloader** is a lightweight utility for retrieving and managing manifest information from supported sources. It provides a clean, intuitive interface for working with manifest data, making it easier to access, organize, and inspect manifests for development, research, and other legitimate purposes.
 
 ## Features
 
